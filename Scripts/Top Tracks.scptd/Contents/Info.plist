@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.dougscripts.searchwikipedia</string>
+	<key>CFBundleName</key>
+	<string>Search Wikipedia</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2010, Doug Adams</string>
+	<key>WindowState</key>
+	<dict>
+		<key>dividerCollapsed</key>
+		<false/>
+		<key>eventLogLevel</key>
+		<integer>-1</integer>
+		<key>name</key>
+		<string>ScriptWindowState</string>
+		<key>positionOfDivider</key>
+		<real>442</real>
+		<key>savedFrame</key>
+		<string>616 154 1304 827 0 0 1920 1058 </string>
+		<key>selectedTabView</key>
+		<string>event log</string>
+	</dict>
+</dict>
+</plist>
